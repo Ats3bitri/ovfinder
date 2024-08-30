@@ -3,7 +3,7 @@
   "version": "0.2.3",
   "name": "Free OpenVPN Server Finder",
   "description": "__MSG_description__",
-  "default_locale": "en",
+  "default_locale": "ru",
   "permissions": [
     "storage"
   ],
